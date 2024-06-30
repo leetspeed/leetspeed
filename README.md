@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @leetspeed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+<h3>
+  Hello Friends ! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+   <hr>
+  I'm Elliot , a <b>Software Developer / DevOps Engineer</b> :computer: <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-<!---
-leetspeed/leetspeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</h3> 
+</div>
+
+  <h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :hourglass_flowing_sand: I'm a Cyber Security Researcher.
+- :computer: I enjoy Automation.
+- :rocket: I'm a Bug bounty hunter
