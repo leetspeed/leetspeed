@@ -10,6 +10,6 @@
 
   <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :hourglass_flowing_sand: I'm a Cyber Security Researcher.
-- :computer: I enjoy Automation.
-- :rocket: I'm a Bug bounty hunter
+- :hourglass_flowing_sand:  Cyber Security Researcher.
+- :rocket:  Bug bounty hunter.
+- :computer:  Automator.
